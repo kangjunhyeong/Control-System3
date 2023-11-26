@@ -14,4 +14,4 @@ $$\frac{\partial T}{\partial k} = \frac{\partial}{\partial k} \left(\frac{100k}{
 
 $$=\frac{100(s^2 + 25s + 100)(0.2s + 1)}{(100k + (s^2 + 25s + 100)(0.2s + 1))^2} \$$
   
-
+$$\frac{k}{T} = \frac{100k + (s^2 + 25s + 100)(0.2s + 1)}{100} \$$
