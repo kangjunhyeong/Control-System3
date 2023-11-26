@@ -10,5 +10,6 @@ G(s)를 넣고 정리하면
 
 $$T(s) = \frac{100k}{100k + (s^2 + 25s + 100)(0.2s + 1)} \ $$
 
+$$\[ \frac{\partial T}{\partial k} = \frac{\partial}{\partial k} \left(\frac{100k}{100k + (s^2 + 25s + 100)(0.2s + 1)}\right)\$$
 
 
