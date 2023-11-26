@@ -8,7 +8,8 @@ $$T(s) = \frac{\frac{G(s)k}{0.25s + 1}}{1 + \frac{G(s)k}{0.2s + 1}}$$
 
 G(s)를 넣고 정리하면  
 
-$$T(s) = \frac{100k}{100k + (s^2 + 25s + 100)(0.2s + 1)} \ $$
+$$T(s) = \frac{100k}{100k + (s^2 + 25s + 100)(0.2s + 1)} \ $$  
+위 식을 편미분 해주면  
 
 $$\frac{\partial T}{\partial k} = \frac{\partial}{\partial k} \left(\frac{100k}{100k + (s^2 + 25s + 100)(0.2s + 1)}\right)\$$
 
