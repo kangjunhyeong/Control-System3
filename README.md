@@ -31,4 +31,8 @@ $$Y(s) = \frac{A(20s+100)}{(0.2s+1)(s^2+25s+100)+100k} < 0.1 \$$
   
 $$\ \lim_{{s \to 0}} Y(s) = \frac{100A}{100 + 100k} < 0.1 \$$  
 
-$$\ k > 10A - 1 \$$
+$$\ k > 10A - 1 \$$  
+
+![image](https://github.com/kangjunhyeong/Control-System3/assets/144297425/d6b28798-7c21-40a5-a195-9ba61784bf7f)  
+
+
