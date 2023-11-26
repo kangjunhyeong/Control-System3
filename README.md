@@ -35,4 +35,4 @@ $$\ k > 10A - 1 \$$
 
 ![image](https://github.com/kangjunhyeong/Control-System3/assets/144297425/d6b28798-7c21-40a5-a195-9ba61784bf7f)  
 
-
+$$\ T_1(s) = \frac{G(s)}{1 + G(s)H(s)} \$$
