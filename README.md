@@ -86,4 +86,7 @@ $$\ = -\frac{1}{0.1s^2 + s + 600} \$$
 $$\ \theta(s)= -\frac{A}{s(0.1s^2 + s + 600)} \$$  
 
 역라플라스를 취해주면  
-$$\ \frac{A \cdot e^{-5t} \cdot (\cos(5\sqrt{239}t) + \frac{\sqrt{239} \cdot \sin(5\sqrt{239}t)}{239})}{600} - \frac{A}{600} \$$
+$$\ \frac{A \cdot e^{-5t} \cdot (\cos(5\sqrt{239}t) + \frac{\sqrt{239} \cdot \sin(5\sqrt{239}t)}{239})}{600} - \frac{A}{600} \$$  
+
+(c)  
+
