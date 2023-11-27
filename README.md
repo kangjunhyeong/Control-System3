@@ -69,4 +69,4 @@ $$\\frac{\theta(s)}{\theta_d(s)} = \frac{\frac{K_i \cdot K \cdot K_m}{R_f \cdot(
 
 Km=30,Rf=1,Kf=Ki=1,J=0.1,b=1,K=20이므로  
 
-$$\\frac{\theta(s)}{\theta_d(s)} = \frac{\6000}{\s^2+10s+6000}\$$
+$$\\frac{\theta(s)}{\theta_d(s)} = \frac{6000}{s^2+10s+6000}\$$
