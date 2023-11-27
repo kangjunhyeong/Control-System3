@@ -60,3 +60,11 @@ $$\ S^{T_1}_{K_1} = \frac{s^2 + 3s - 4}{s^2 + 3s - 4 + 6} \$$
 $$\frac{\partial T_2(s)}{\partial K_1} = \ \frac{K_2(s^2 + 3s - 4) + 2K_2^2s + 8K_2^2}{(s^2 + 3s - 4 - 2K_1s + 2K_2s + 2K_1 + 8K_2 - 4K_1K_2)^2} \$$  
 
 $$\ S^{T_2}_{K_1} = \frac{s^2 + 5s + 4}{s^2 + 3s + 2} \$$  
+
+![image](https://github.com/kangjunhyeong/Control-System3/assets/144297425/48b668cf-eb38-4e1c-9225-52356ca8e9b8)  
+![image](https://github.com/kangjunhyeong/Control-System3/assets/144297425/ae20f8de-5333-4322-99d8-46394f03ca8b)  
+![image](https://github.com/kangjunhyeong/Control-System3/assets/144297425/28d50704-4b3a-48ed-bdb5-cef1e127003f)  
+
+
+
+
