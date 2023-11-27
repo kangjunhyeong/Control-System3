@@ -87,7 +87,7 @@ $$\\theta(s) = \frac{6000}{s(s^2+10s+6000)}\$$
 
 역라플라스를 해주면  
 
-$$\ \frac{120 \cdot \sqrt{239} \cdot e^{-5t} \cdot \sin(5\sqrt{239}t)}{239} \$$
+$$\\frac{1}{10} - \frac{e^{-5t} \cdot (\cos(5\sqrt{239}t) + \frac{\sqrt{239} \cdot \sin(5\sqrt{239}t)}{239})}{10} \$$
 
 (b)  
 
