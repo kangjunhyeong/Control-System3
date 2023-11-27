@@ -83,4 +83,4 @@ $$\ \frac{\theta(s)}{T_d(s)} = \frac{-\frac{K_i}{s(Js+b)}}{1 + \frac{K \cdot K_m
 
 $$\ = -\frac{1}{0.1s^2 + s + 600} \$$  
 
-$$\ theta(s)= -\frac{A}{s(0.1s^2 + s + 600)} \$$
+$$\ \theta(s)= -\frac{A}{s(0.1s^2 + s + 600)} \$$
