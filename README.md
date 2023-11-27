@@ -81,4 +81,6 @@ $$\ \frac{120 \cdot \sqrt{239} \cdot e^{-5t} \cdot \sin(5\sqrt{239}t)}{239} \$$
 
 $$\ \frac{\theta(s)}{T_d(s)} = \frac{-\frac{K_i}{s(Js+b)}}{1 + \frac{K \cdot K_m \cdot K_f}{s \cdot R_f \cdot (Js+b)}} \$$
 
-$$\ = -\frac{1}{0.1s^2 + s + 600} \$$
+$$\ = -\frac{1}{0.1s^2 + s + 600} \$$  
+
+$$\ theta(s)= -\frac{A}{s(0.1s^2 + s + 600)} \$$
