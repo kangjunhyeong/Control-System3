@@ -65,6 +65,8 @@ $$\ S^{T_2}_{K_1} = \frac{s^2 + 5s + 4}{s^2 + 3s + 2} \$$
 ![image](https://github.com/kangjunhyeong/Control-System3/assets/144297425/ae20f8de-5333-4322-99d8-46394f03ca8b)  
 ![image](https://github.com/kangjunhyeong/Control-System3/assets/144297425/28d50704-4b3a-48ed-bdb5-cef1e127003f)  
 
+(a)  
+
 $$\\frac{\theta(s)}{\theta_d(s)} = \frac{\frac{K_i \cdot K \cdot K_m}{R_f \cdot(s(Js+b))}}{1 + \frac{K_f \cdot K \cdot K_m}{R_f \cdot (s(Js+b))}} \$$
 
 Km=30,Rf=1,Kf=Ki=1,J=0.1,b=1,K=20이므로  
@@ -74,3 +76,7 @@ $$\\frac{\theta(s)}{\theta_d(s)} = \frac{6000}{s^2+10s+6000}\$$
 역라플라스를 해주면  
 
 $$\ \frac{120 \cdot \sqrt{239} \cdot e^{-5t} \cdot \sin(5\sqrt{239}t)}{239} \$$
+
+(b)  
+
+$$\ \frac{\theta(s)}{T_d(s)} = \frac{-\frac{K_i}{s(Js+b)}}{1 + \frac{K \cdot K_m \cdot K_f}{s \cdot R_f \cdot (Js+b)}} \$$
