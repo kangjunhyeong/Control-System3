@@ -106,3 +106,4 @@ $$\ E(s) = K_i \cdot \theta_d(s) - K_f \cdot \theta(s) \$$
 
 $$ T_d(s)=0\$$  
 
+$$\e_{ss} = \lim_{{t \to \infty}} e(t) = \lim_{{s \to 0}} s \cdot E(s) \$$
