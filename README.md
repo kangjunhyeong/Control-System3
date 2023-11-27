@@ -100,3 +100,7 @@ $$\ \frac{A \cdot e^{-5t} \cdot (\cos(5\sqrt{239}t) + \frac{\sqrt{239} \cdot \si
 
 (c)  
 
+$$\ E(s) = K_i \cdot \theta_d(s) - K_f \cdot \theta(s) \$$  
+
+$$\T_d(s)=0\$$  
+
