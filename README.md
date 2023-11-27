@@ -41,6 +41,8 @@ $$\ k > 10A - 1 \$$
 
 ![image](https://github.com/kangjunhyeong/Control-System3/assets/144297425/d6b28798-7c21-40a5-a195-9ba61784bf7f)  
 
+(a)  
+
 $$\ T_1(s) = \frac{G(s)}{1 + G(s)H(s)} \$$  
 
 $$\= \frac{K_1 \cdot K_2}{s^2 + 3s - 4 + 6K_1 \cdot K_2} \$$  
@@ -58,6 +60,8 @@ $$\ T_2(s) = \frac{K_1 \cdot K_2}{s^2 + (3 - 2K_1 + 2K_2)s + (2K_1 + 8K_2 - 4K_1
 $$\frac{\partial T_1(s)}{\partial K_1} = \frac{(s^2 + 3s - 4)K_2}{(s^2 + 3s - 4 + 6K_1K_2)^2}\$$  
 
 $$\ S^{T_1}_{K_1} = \frac{s^2 + 3s - 4}{s^2 + 3s - 4 + 6K_1K_2} \$$  
+
+(b)  
 
 K1=K2=1이므로  
 
